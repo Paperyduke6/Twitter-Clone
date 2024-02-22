@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "twitter-clone-1faac"
-  }
+    "default": "twitter-clone-f34dd",
+    "twitter-clone": "twitter-clone-f34dd"
+  },
+  "targets": {},
+  "etags": {}
 }
