@@ -1,5 +1,7 @@
 The Link to try out the project is :- https://twitter-clone-f34dd.web.app
 
+Due to the website link having twitter and clone in the name many times it can be identified as an unsafe site to visit, since it is not the genuine service. Sorry for any inconvenience caused
+
 ## Available Scripts
 
 In the project directory, you can run:
